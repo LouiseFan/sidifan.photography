@@ -1,0 +1,30 @@
+html {
+    /* px 表示 “像素（pixels）”: 基础字号为 10 像素 */
+    font-size: 10px;
+    /* Google fonts 输出的 CSS */
+    font-family: "Satisfy", cursive;
+    background-color:#ABC79D;
+  }
+
+h1 {
+    font-size: 60px;
+    text-align:center;
+    margin: 0;
+    color:#ffff;
+    letter-spacing: 2px;
+    padding: 45px 0
+}
+
+p {
+    font-size: 30px;
+    text-align: center;
+    color: #000;
+    line-height: 1;
+    letter-spacing: 1px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 1200px;
+}

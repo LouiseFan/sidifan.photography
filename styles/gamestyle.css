@@ -1,0 +1,63 @@
+html {
+    font-family: "Kranky", cursive;
+    font-family: "Unkempt", cursive;
+    font-family: "Walter Turncoat", cursive;
+    background-color:#DEDEB9;
+}
+
+body {
+    width: 100%;
+}
+
+.title {
+    font-family: "Kranky", cursive;
+    font-size: 40px;
+    text-align: center;
+    color: #f8f8fa;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.game {
+    font-family:"Walter Turncoat", cursive;
+    font-size: 30px;
+    text-align: center;
+    color:#050505;
+    margin: 50px 23px 45px 23px;
+}
+
+.discription {
+    font-family: "Walter Turncoat", cursive;
+    font-size: 23px;
+    text-align: center;
+    border-color:#85a068;
+    color:#ffff;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-color: #85a068;
+    padding: 70px;
+}
+
+.form {
+    font-family: "Walter Turncoat", cursive;
+    font-size: 25px;
+    text-align: center;
+    margin: 30px;
+}
+
+.resultParas {
+    font-family: "Walter Turncoat", cursive;
+    font-size: 25px;
+    border-color: #85a068;
+    color: #F58718;
+    margin: 30px;
+    padding:10px
+}
+
+.congrats {
+    font-family: "Unkempt", cursive;
+    font-size: 30px;
+    border-color: #85a068;
+    padding:20px;
+    letter-spacing: 2px;
+}

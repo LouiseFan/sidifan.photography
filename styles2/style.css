@@ -1,0 +1,183 @@
+html {
+    font-size: 10px;
+    /* Google fonts 输出的 CSS */
+    font-family: "Mystery Quest", cursive;
+    font-family: "Rock Salt", cursive;
+    background-color:#C7B99D;
+}
+
+body {
+    background-color:#C7B99D; 
+}
+
+h1{
+    border-color: #AE9DC7 ;
+    border-style: hidden;
+    background-color:#AE9DC7;
+    margin: 40px 23px 0px 23px;
+    font-size: 70px;
+    font-family: "Rock Salt", cursive;
+    text-align:center;
+    color:#ffff;
+    letter-spacing: 2px;
+    padding: 1px;
+}
+
+h2 {
+    border-color: #AE9DC7 ;
+    border-style: hidden;
+    background-color: #AE9DC7;
+    margin: 0px 23px 2px 23px;
+    font-size: 30px;
+    font-family: "Rock Salt", cursive;
+    text-align:center;
+    color:gold;
+    letter-spacing: 1px;
+    padding: 5px 0
+}
+
+div {
+    width: 300px;
+    height: 600px;
+}
+
+.div-spring {
+    border-width: 1em;
+    border-style:dashed double none;
+    border-color: #ffff;
+    width: 400px;
+    height: 580px;
+    margin: 0px 20px 15px 20px;
+    background-color:#C7AE9D;
+    padding: .5rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.div-spring img {
+    width: 100%
+}
+
+.div-spring h3 {
+    font-size: 35px;
+    font-family: "Rock Salt", cursive;
+    text-align:center;
+    color: black;
+}
+.div-spring p {
+    font-size: 20px;
+    font-family: "Mystery Quest", cursive;
+    text-align: center;
+    color: black;
+    letter-spacing: 2px;
+}
+
+.div-summer {
+    border-width: 1em;
+    border-style:dashed double none;
+    border-color: #ffff;
+    width: 400px;
+    height: 580px;
+    margin: 0px 20px 15px 0px;
+    background-color:#C7AE9D;
+    padding: .5rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.div-summer img{
+    width: 100%;
+}
+    
+.div-summer h3 {
+    font-size: 35px;
+    font-family: "Rock Salt", cursive;
+    text-align:center;
+    color: black; 
+}
+
+.div-summer p {
+    font-size: 20px;
+    font-family: "Mystery Quest", cursive;
+    text-align: center;
+    color: black;
+    letter-spacing: 2px;
+}
+   
+.div-fall {
+    border-width: 1em;
+    border-style:dashed double none;
+    border-color: #ffff;
+    width: 400px;
+    height: 580px;
+    margin: 0px 20px 15px 0px;
+    background-color:#C7AE9D;
+    padding: .5rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.div-fall img {
+    width: 100%;
+}
+
+.div-fall h3 {
+    font-size: 35px;
+    font-family: "Rock Salt", cursive;
+    text-align:center;
+    color: black; 
+}
+
+.div-fall p {
+    font-size: 20px;
+    font-family: "Mystery Quest", cursive;
+    text-align: center;
+    color: black;
+    letter-spacing: 2px;
+}
+
+.div-winter {
+    border-width: 1em;
+    border-style:dashed double none;
+    border-color: #ffff;
+    width: 400px;
+    height: 580px;
+    margin: 0px 20px 15px 0px;
+    background-color:#C7AE9D;
+    padding: .5rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.div-winter img {
+    width: 100%;
+}
+
+.div-winter h3 {
+    font-size: 35px;
+    font-family: "Rock Salt", cursive;
+    text-align:center;
+    color: black;   
+}
+
+.div-winter p {
+    font-size: 20px;
+    font-family: "Mystery Quest", cursive;
+    text-align: center;
+    color: black;
+    letter-spacing: 2px;
+}
+
+.flex-div {
+    display: flex;
+    width: auto;
+}
+
+footer {
+    margin-top: 5em;
+    margin-bottom: 5em;
+    font-size: 10px;
+    font-family: "Rock Salt", cursive;
+    text-align:end;
+    color: black;  
+} 
